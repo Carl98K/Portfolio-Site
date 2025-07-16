@@ -14,7 +14,7 @@ import VsCode from "./icons/vscodeicon"
 export default function Skills() {
     return (
 
-        <section id="skills" className="mt-[300px] flex flex-col justify-center items-center">
+        <section id="skills" className="max-[768px]:mt-[250px] mt-[300px] flex flex-col justify-center items-center">
             <h2 className="max-[480px]:text-[1.8rem] max-[600px]:text-[2rem] max-[768px]:text-[2.3rem] max-[1024px]:text-[2.5rem] text-[2.8rem] text-center text-black font-bold tracking-wide">Skills</h2>
 
             <div className="max-[480px]:mt-[100px] max-[768px]:mt-[100px] max-[1024px]:mt-[150px] mt-[150px] border-2 border-gray-700 rounded-[30px] max-[480px]:w-[290px] max-[768px]:w-[450px] max-[1024px]:w-[710px] w-[950px] max-[480px]:h-[550px] max-[1024px]:h-[650px] h-[680px] flex flex-row flex-wrap justify-center items-center max-[480px]:gap-x-[40px] max-[768px]:gap-x-[40px] max-[1024px]:gap-x-[80px] gap-x-[120px]">
