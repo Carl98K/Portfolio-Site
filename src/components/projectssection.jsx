@@ -19,7 +19,7 @@ export default function Projects() {
 
                     <p className="max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1rem] text-grayish">HTML, CSS, Javascript</p>
 
-                    <Link to="https://carl98k.github.io/Gym-Responsive-Website/"> <button className="hover:bg-blue-500 hover:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
+                    <Link to="https://carl98k.github.io/Gym-Responsive-Website/"> <button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
 
                 </div>
 
@@ -30,7 +30,7 @@ export default function Projects() {
 
                     <p className="max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1rem] text-grayish">HTML, CSS, Javascript, React, Tailwind</p>
 
-                    <Link to="https://carl98k.github.io/To-Do-List-App/"><button className="hover:bg-blue-500 hover:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
+                    <Link to="https://carl98k.github.io/To-Do-List-App/"><button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
 
 
                 </div>
@@ -42,7 +42,7 @@ export default function Projects() {
 
                     <p className="max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1rem] text-grayish">HTML, CSS, Javascript</p>
 
-                    <Link to="https://carl98k.github.io/WeatherApp/"><button className="hover:bg-blue-500 hover:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
+                    <Link to="https://carl98k.github.io/WeatherApp/"><button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
 
 
                 </div>
@@ -54,7 +54,7 @@ export default function Projects() {
 
                     <p className="max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1rem] text-grayish">HTML, CSS, Javascript</p>
 
-                    <Link to="https://carl98k.github.io/Rock-Paper-Scissor/"><button className="hover:bg-blue-500 hover:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
+                    <Link to="https://carl98k.github.io/Rock-Paper-Scissor/"><button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
 
 
                 </div>
