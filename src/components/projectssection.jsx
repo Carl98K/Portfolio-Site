@@ -19,8 +19,7 @@ export default function Projects() {
 
                     <p className="max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1rem] text-grayish">HTML, CSS, Javascript</p>
 
-                    <Link to="https://carl98k.github.io/Gym-Responsive-Website/"> <button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
-
+                    <Link to="https://Carl98k.github.io/Gym-Responsive-Website/"> <button className="hover:bg-blue-500 hover:text-white active:bg-blue-500 active:text-white mt-[40px] border-2 border-grayish rounded-3xl max-[480px]:w-[90px] max-[768px]:w-[100px] max-[480px]:h-[40px] max-[768px]:h-[45px] w-[120px] h-[50px] max-[480px]:text-[0.8rem] max-[768px]:text-[0.9rem] text-[1.2rem] text-black tracking-wide">Demo</button></Link>
                 </div>
 
                 <div className="border-2 border-gray-600 rounded-[15px] shadow-xl/20 bg-white max-[480px]:w-[280px] max-[768px]:w-[320px] w-[400px] max-[480px]:h-[400px] max-[768px]:h-[450px] h-[550px] flex flex-col justify-start items-center max-[480px]:gap-2 max-[768px]:gap-3 gap-5">
