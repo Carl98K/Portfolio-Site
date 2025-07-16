@@ -4,7 +4,7 @@ export default function MainSection() {
     return (
         <section className="max-[480px]:mt-[80px] max-[768px]:mt-[200px] max-[1024px]:mt-[200px] mt-[250px] max-[480px]:flex-col max-[768px]:flex-col max-[1024px]:flex-col flex flex-row justify-center items-center gap-[50px]">
             <div>
-                <img className="border-4 rounded-[50%] max-[480px]:w-[150px] max-[768px]:w-[250px] max-[1024px]:w-[300px] max-[1280px]:w-[350px] w-[390px]" src="./src/assets/My Pic.jpg" alt="sample picture of developer" />
+                <img className="border-4 rounded-[50%] max-[480px]:w-[150px] max-[768px]:w-[250px] max-[1024px]:w-[300px] max-[1280px]:w-[350px] w-[390px]" src="/src/assets/My Pic.JPG" alt="sample picture of developer" />
             </div>
 
             <div className="flex flex-col items-center">
